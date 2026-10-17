@@ -12,4 +12,3 @@ This directory is reserved for **permission-cleared, sanitized portfolio media**
 
 The README will link to the real media only after it has been provided and reviewed. We intentionally do **not** include placeholder images that might be mistaken for screenshots of the actual application.
 
-For the public script and privacy checklist, see [Demo walkthrough](../docs/DEMO_SCRIPT.md).
