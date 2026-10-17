@@ -1,14 +1,12 @@
-# Project 91 — Demo Media
+# Project 91 — Portfolio Media
 
-This directory is reserved for **permission-cleared, sanitized portfolio media**. No proprietary source, credential, client material, private identifiers, or production databases belong here.
+The images and walkthrough in this folder are prepared specifically for this closed-source engineering portfolio. Sensitive financial and wallet details were obscured or omitted before publication.
 
-## Planned showcase
+| File | Description |
+|---|---|
+| `project91-overview.png` | Operator overview with wallet balance, address, and QR code redacted |
+| `project91-controls.png` | Runtime controls with specific operational metadata redacted |
+| `project91-strategy.png` | Configuration interface with tracked-wallet and strategy-specific details redacted |
+| `project91-silent-showcase.mp4` | 75-second silent video made from redacted screenshots, a cropped segment of the original screen recording, and conceptual technical slides |
 
-| Asset | Purpose | Status |
-|---|---|---|
-| Operator overview screenshot | Show the general desktop product experience | Awaiting approved image |
-| Activity / status screenshot | Illustrate operator feedback and recovery semantics | Awaiting approved image |
-| Short project walkthrough | Connect interface, architecture, and scoped validation | Awaiting approved recording |
-
-The README will link to the real media only after it has been provided and reviewed. We intentionally do **not** include placeholder images that might be mistaken for screenshots of the actual application.
-
+These are illustrative interface captures and historically scoped engineering evidence—not a live trading service or a demonstration of guaranteed economic results. The proprietary code, wallet keys, private configuration, client data, and production database are not distributed.
