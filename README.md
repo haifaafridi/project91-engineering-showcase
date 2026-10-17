@@ -64,9 +64,6 @@ These are scoped historical validation results, **not** a claim that every venue
 
 **Coming next:** a short, permission-cleared walkthrough and sanitized screenshots of the operator experience. The media is not published yet. The demonstration will focus on interface design, system boundaries, and reliability rather than trading advice or profit claims.
 
-- [Demo storyboard and privacy checklist](docs/DEMO_SCRIPT.md)
-- [Media requirements](media/README.md)
-
 ## Stack
 
 `Rust` · `Tokio` · `Solana` · `gRPC/stream observation` · `SQLite` · `WSL2/Ubuntu` · `Windows launcher` · `Local operator UI`
