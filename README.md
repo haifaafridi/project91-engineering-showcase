@@ -19,6 +19,26 @@ The engineering challenge was not simply detecting on-chain events. It was build
 | Integration | Windows launcher, local operator interface, Ubuntu/WSL2 backend |
 | Validation | Focused tests, no-spend mainnet simulation, reconciled on-chain sell, launcher self-test |
 
+## Product preview (privacy-redacted)
+
+**[▶ Watch the 75-second silent product walkthrough](media/project91-silent-showcase.mp4)**
+
+The walkthrough combines a short cropped segment of the real operator-interface recording with sanitized screenshots and a conceptual architecture explanation. Sensitive wallet and operational information has been covered or excluded. The underlying application and source code are not published.
+
+### Operator dashboard
+
+![Sanitized Project 91 operator dashboard](media/project91-overview.png)
+
+### Runtime controls
+
+![Sanitized Project 91 runtime control interface](media/project91-controls.png)
+
+### Configurable strategy interface
+
+![Sanitized Project 91 strategy settings interface](media/project91-strategy.png)
+
+*The screenshots are from an October 2026 interface capture with private details obscured. Historical validation findings below are not guarantees of current or universal trading performance.*
+
 ## High-level architecture
 
 ```mermaid
@@ -59,10 +79,6 @@ Read the engineering [case studies](docs/CASE_STUDIES.md) and [architecture deci
 - **Windows launcher:** reviewed build and non-spending self-test passed.
 
 These are scoped historical validation results, **not** a claim that every venue, token pair, transaction, or current live environment has been tested. See [validation scope and limitations](docs/VALIDATION.md).
-
-## Product demonstration
-
-**Coming next:** a short, permission-cleared walkthrough and sanitized screenshots of the operator experience. The media is not published yet. The demonstration will focus on interface design, system boundaries, and reliability rather than trading advice or profit claims.
 
 ## Stack
 
