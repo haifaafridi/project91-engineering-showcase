@@ -62,7 +62,7 @@ These are scoped historical validation results, **not** a claim that every venue
 
 ## Product demonstration
 
-An approved, sanitized video or screenshots can be added here after permission and confidentiality review. Demo material will focus on operator experience, architectural boundaries, and engineering quality — not trading advice or profit claims.
+**Coming next:** a short, permission-cleared walkthrough and sanitized screenshots of the operator experience. The media is not published yet. The demonstration will focus on interface design, system boundaries, and reliability rather than trading advice or profit claims.
 
 - [Demo storyboard and privacy checklist](docs/DEMO_SCRIPT.md)
 - [Media requirements](media/README.md)
@@ -77,6 +77,6 @@ This public repository is a **documentation-only engineering portfolio**. It doe
 
 **Publication is subject to the applicable client agreement and permission to disclose project information.** This repository does not grant a license to use or reproduce any underlying proprietary application code. Rights in the original software and brand belong to their respective owners.
 
-**Author / contribution:** [Replace with your name and an accurate, permission-cleared description of your personal role.]
+**Portfolio maintained by:** Haifa Khan Afridi ([@haifaafridi](https://github.com/haifaafridi)). This showcase documents my engineering work on Project 91; specific client, team, and ownership details are disclosed only where authorized.
 
-**Contact:** [Add an appropriate professional portfolio or LinkedIn profile only if desired.]
+**Project visibility:** The implementation is private; the case study and supporting documentation are public.
